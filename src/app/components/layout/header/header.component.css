@@ -1,0 +1,30 @@
+.header{
+    background-color: #00e676;
+    padding: 10px;
+    height: 70px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.header a {
+    text-decoration: none;
+}
+.header h1{
+    float: left;
+}
+.link{
+    float: right;
+    color: #fff;
+    margin: 10px;
+    margin-right: 20px;
+    font-size: large;
+    font-weight: bold;
+    
+}
+.link:hover{
+    background-color:rgb(124, 224, 104);
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
